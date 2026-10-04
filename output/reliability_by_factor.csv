@@ -1,0 +1,4 @@
+factor,n_items,items,cronbach_alpha
+Factor1,6,"q07, q08, q09, q10, q11, q12",0.8443535645975717
+Factor2,6,"q13, q14, q15, q16, q17, q18",0.8426517761902551
+Factor3,6,"q01, q02, q03, q04, q05, q06",0.837934143683403

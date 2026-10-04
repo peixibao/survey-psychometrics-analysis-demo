@@ -1,0 +1,13 @@
+Participants included: 854
+Items included: 18
+KMO overall MSA: 0.907
+Bartlett test: chi-square = 6313.51, df = 153, p = <2e-16
+Parallel analysis suggested factors: 3
+
+Variance accounted:
+                        MR1   MR2   MR3
+SS loadings           3.121 3.101 3.029
+Proportion Var        0.173 0.172 0.168
+Cumulative Var        0.173 0.346 0.514
+Proportion Explained  0.337 0.335 0.327
+Cumulative Proportion 0.337 0.673 1.000
